@@ -47,3 +47,8 @@ console.log(buyItem(hero1, shop1));
 console.log(buyItem(hero2, shop2));
 
 module.exports = buyItem;
+
+/*
+รหัส นศ.: 660612146
+ชื่อ-สกุล : ธีธัช ยอดบุญ
+*/

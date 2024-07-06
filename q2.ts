@@ -23,3 +23,8 @@ const students1 = [
 console.log(findTopNames(students1));
 
 module.exports = findTopNames;
+
+/*
+รหัส นศ.: 660612146
+ชื่อ-สกุล : ธีธัช ยอดบุญ
+*/
